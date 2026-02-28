@@ -1,6 +1,6 @@
 # The Complete JavaScript Course 2025: From Zero to Expert!
 
-This repository contains my notes, exercises, and projects from the Udemy course  
+This repository contains my projects from the Udemy course:  
 **"The Complete JavaScript Course 2025: From Zero to Expert!" by Jonas Schmedtmann.**
 
 ---
