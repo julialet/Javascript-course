@@ -4,6 +4,8 @@ A simple number guessing game developed with JavaScript.
 
 This is part of **The Complete JavaScript Course 2025: From Zero to Expert!**. It's about DOM manipulation and basic game development.
 
+![Game Screenshot](images/Screenshot.png)
+
 ---
 
 ## 📌 Project Description
